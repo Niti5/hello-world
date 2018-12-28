@@ -1,3 +1,5 @@
 # hello-world
 Repository #1
-commit
+
+
+print("hello world ")
